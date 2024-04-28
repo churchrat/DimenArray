@@ -1,0 +1,14 @@
+D:\homeworke\DimenshionalArrays\MaoZhedong\bin\Debug\net8.0\MaoZhedong.exe
+D:\homeworke\DimenshionalArrays\MaoZhedong\bin\Debug\net8.0\MaoZhedong.deps.json
+D:\homeworke\DimenshionalArrays\MaoZhedong\bin\Debug\net8.0\MaoZhedong.runtimeconfig.json
+D:\homeworke\DimenshionalArrays\MaoZhedong\bin\Debug\net8.0\MaoZhedong.dll
+D:\homeworke\DimenshionalArrays\MaoZhedong\bin\Debug\net8.0\MaoZhedong.pdb
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.AssemblyInfoInputs.cache
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.AssemblyInfo.cs
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.csproj.CoreCompileInputs.cache
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.dll
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\refint\MaoZhedong.dll
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.pdb
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\MaoZhedong.genruntimeconfig.cache
+D:\homeworke\DimenshionalArrays\MaoZhedong\obj\Debug\net8.0\ref\MaoZhedong.dll

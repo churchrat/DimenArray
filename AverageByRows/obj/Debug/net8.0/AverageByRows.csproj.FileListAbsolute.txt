@@ -1,0 +1,14 @@
+D:\homeworke\DimenshionalArrays\AverageByRows\bin\Debug\net8.0\AverageByRows.exe
+D:\homeworke\DimenshionalArrays\AverageByRows\bin\Debug\net8.0\AverageByRows.deps.json
+D:\homeworke\DimenshionalArrays\AverageByRows\bin\Debug\net8.0\AverageByRows.runtimeconfig.json
+D:\homeworke\DimenshionalArrays\AverageByRows\bin\Debug\net8.0\AverageByRows.dll
+D:\homeworke\DimenshionalArrays\AverageByRows\bin\Debug\net8.0\AverageByRows.pdb
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.AssemblyInfoInputs.cache
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.AssemblyInfo.cs
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.csproj.CoreCompileInputs.cache
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.dll
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\refint\AverageByRows.dll
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.pdb
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\AverageByRows.genruntimeconfig.cache
+D:\homeworke\DimenshionalArrays\AverageByRows\obj\Debug\net8.0\ref\AverageByRows.dll

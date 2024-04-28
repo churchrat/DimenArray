@@ -1,0 +1,14 @@
+D:\homeworke\DimenshionalArrays\MinimumCols\bin\Debug\net8.0\MinimumCols.exe
+D:\homeworke\DimenshionalArrays\MinimumCols\bin\Debug\net8.0\MinimumCols.deps.json
+D:\homeworke\DimenshionalArrays\MinimumCols\bin\Debug\net8.0\MinimumCols.runtimeconfig.json
+D:\homeworke\DimenshionalArrays\MinimumCols\bin\Debug\net8.0\MinimumCols.dll
+D:\homeworke\DimenshionalArrays\MinimumCols\bin\Debug\net8.0\MinimumCols.pdb
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.AssemblyInfoInputs.cache
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.AssemblyInfo.cs
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.csproj.CoreCompileInputs.cache
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.dll
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\refint\MinimumCols.dll
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.pdb
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\MinimumCols.genruntimeconfig.cache
+D:\homeworke\DimenshionalArrays\MinimumCols\obj\Debug\net8.0\ref\MinimumCols.dll

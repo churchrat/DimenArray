@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MaoZhedong/1.0.0": {
+        "runtime": {
+          "MaoZhedong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaoZhedong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
